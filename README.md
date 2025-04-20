@@ -15,15 +15,3 @@ A Windows Forms application for managing store inventory, including stock tracki
 - **Windows Forms (WinForms)**: UI framework for building the desktop application.
 - **SQL Server**: Database for storing inventory and user data (you can update this part based on your actual DB).
   
-## Getting Started
-
-### Prerequisites
-
-- Visual Studio (or any C# IDE that supports WinForms)
-- .NET Framework (version X.X) — Make sure you have the required version for the project.
-
-### Installation
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/MariamMounir/Store-Management-WinForms.git

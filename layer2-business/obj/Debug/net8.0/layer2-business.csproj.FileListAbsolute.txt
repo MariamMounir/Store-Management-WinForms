@@ -1,0 +1,15 @@
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\obj\Debug\net8.0\layer2-business.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\obj\Debug\net8.0\layer2-business.AssemblyInfoInputs.cache
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\obj\Debug\net8.0\layer2-business.AssemblyInfo.cs
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\obj\Debug\net8.0\layer2-business.csproj.CoreCompileInputs.cache
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\bin\Debug\net8.0\layer2-business.deps.json
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\bin\Debug\net8.0\layer2-business.dll
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\bin\Debug\net8.0\layer2-business.pdb
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\bin\Debug\net8.0\Layer1-connection.dll
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\bin\Debug\net8.0\Layer1-connection.pdb
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\obj\Debug\net8.0\layer2-business.csproj.AssemblyReference.cache
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\obj\Debug\net8.0\layer2-b.AC327D2B.Up2Date
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\obj\Debug\net8.0\layer2-business.dll
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\obj\Debug\net8.0\refint\layer2-business.dll
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\obj\Debug\net8.0\layer2-business.pdb
+E:\ITI\Labs\14-c_linq\Project\Stock Project\layer2-business\obj\Debug\net8.0\ref\layer2-business.dll

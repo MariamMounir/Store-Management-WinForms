@@ -1,0 +1,12 @@
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\bin\Debug\net8.0\Layer1-connection.deps.json
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\bin\Debug\net8.0\Layer1-connection.dll
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\bin\Debug\net8.0\Layer1-connection.pdb
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\obj\Debug\net8.0\Layer1-connection.csproj.AssemblyReference.cache
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\obj\Debug\net8.0\Layer1-connection.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\obj\Debug\net8.0\Layer1-connection.AssemblyInfoInputs.cache
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\obj\Debug\net8.0\Layer1-connection.AssemblyInfo.cs
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\obj\Debug\net8.0\Layer1-connection.csproj.CoreCompileInputs.cache
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\obj\Debug\net8.0\Layer1-connection.dll
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\obj\Debug\net8.0\refint\Layer1-connection.dll
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\obj\Debug\net8.0\Layer1-connection.pdb
+E:\ITI\Labs\14-c_linq\Project\Stock Project\Layer1-connection\obj\Debug\net8.0\ref\Layer1-connection.dll
